@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 75px;
+  text-align: center;
+}
+ li {
+  color: lightcoral;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  margin-bottom: 35px;
+}
+
+button {
+  background-color: white;
+  color: black;
+  width: 200px;
+  height: 50px;
+  font-size: 18px;
+}
